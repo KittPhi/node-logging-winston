@@ -1,0 +1,16 @@
+{
+  "name": "f_express_morgan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "KittPhi <Kitt.Phi@gmail.co>",
+  "license": "Vonage",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}

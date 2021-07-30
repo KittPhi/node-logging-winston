@@ -1,0 +1,15 @@
+{
+  "name": "2a_logging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "KittPhi <Kitt.Phi@gmail.co>",
+  "license": "Vonage",
+  "dependencies": {
+    "winston": "^3.3.3"
+  }
+}
